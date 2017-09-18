@@ -1,2 +1,2 @@
 # rails
-Blog training ground
+oi salsi
