@@ -1,2 +1,2 @@
 # rails
-oi salsi
+Rails training
