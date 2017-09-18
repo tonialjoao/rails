@@ -1,2 +1,2 @@
 # rails
-Second try rails
+Blog training ground
